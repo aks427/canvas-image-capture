@@ -1,5 +1,5 @@
 script:
-  - npm ci
+  - npm install
   - npm run build
 branches:
   only:
